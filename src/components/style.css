@@ -1,0 +1,16 @@
+.bar {
+    width: 90%;
+    height: 40px;
+    border-radius: 5px;
+    border: 1px solid black;
+}
+.btn {
+    height: 45px;
+    background-color: lightgray;
+    border: none;
+    border-radius: 5px;
+    display: inline-block;
+}
+.list {
+    list-style: none;
+}
